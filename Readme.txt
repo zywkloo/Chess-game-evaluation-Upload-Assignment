@@ -6,3 +6,5 @@ Bounce_demo01_procedural_paradigm.py:
 
 Bounce_demo02_object_oriented.py:
 	A template of object oriented paradigm.pygame library needed.
+open_csv:
+	A function that helps reading data from csv and storing them as lists
